@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF00ACEE</color>
+    <color name="cFFFFFFFF">#FFFFFFFF</color>
+    <color name="cFF4D4D4D">#FF4D4D4D</color>
+    <color name="cFF222222">#FF222222</color>
+    <color name="c30FFFFFF">#30FFFFFF</color>
+    <color name="cFFDADADA">#FFDADADA</color>
+    <color name="cFFD5D5D5">#FFD5D5D5</color>
+    <color name="cFF464646">#FF464646</color>
+</resources>
